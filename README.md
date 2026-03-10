@@ -75,4 +75,5 @@ Output/TIMING Waveform
 
 
 
-Result: Implementation-of-Half-Adder-and-Half Subtractor-circuit executed successfully.
+Result:
+Implementation-of-Half-Adder-and-Half Subtractor-circuit executed successfully.
